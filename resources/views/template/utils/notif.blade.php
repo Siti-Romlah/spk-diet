@@ -7,6 +7,7 @@
 @endif
 @endforeach
 
+
 <script>
     setTimeout(() => {
         $('.alert').hide('slow')

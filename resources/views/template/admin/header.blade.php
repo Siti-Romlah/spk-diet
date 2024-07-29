@@ -8,5 +8,4 @@
             <a href="" class="nav-link">Home</a>
         </li>
     </ul>
-    
 </nav>

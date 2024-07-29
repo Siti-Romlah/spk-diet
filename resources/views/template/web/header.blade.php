@@ -12,7 +12,7 @@
             <div class="button-group mt-4 float-right">
                 <a href="{{ url('login') }}" class="btn btn-sm btn-success float-right">
                     <i class="fa fa-left"></i> Login Admin
-                    </a>
+                </a>
             </div>
             <i class="fa fa-left"></i>
             </a>
